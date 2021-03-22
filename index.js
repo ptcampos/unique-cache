@@ -5,7 +5,7 @@ const NodeCache = require('node-cache');
  * Cache de memória
  * Referência: https://www.npmjs.com/package/node-cache
  */
-module.exports = class UnityMemoryCache {
+class UnityMemoryCache {
   currentCache;
 
   constructor(config = {}) {
@@ -67,4 +67,6 @@ module.exports = class UnityMemoryCache {
     this.set(key, response);
     return response;
   }
-};
+}
+
+module.exports = UnityMemoryCache;
