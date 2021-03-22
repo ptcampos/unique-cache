@@ -1,0 +1,19 @@
+{
+  "name": "unique-team-cache",
+  "version": "1.0.0",
+  "description": "Memory cache for node apps",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ptcampos/unique-cache.git"
+  },
+  "author": "Paulo Campos <Unique Team>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ptcampos/unique-cache/issues"
+  },
+  "homepage": "https://github.com/ptcampos/unique-cache#readme"
+}
