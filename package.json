@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/ptcampos/unique-cache/issues"
   },
-  "homepage": "https://github.com/ptcampos/unique-cache#readme"
+  "homepage": "https://github.com/ptcampos/unique-cache#readme",
+  "dependencies": {
+    "node-cache": "^5.1.2"
+  }
 }
