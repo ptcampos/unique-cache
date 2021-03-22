@@ -1,6 +1,6 @@
 {
   "name": "unique-team-cache",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Memory cache for node apps",
   "main": "index.js",
   "scripts": {
