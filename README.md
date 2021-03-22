@@ -5,11 +5,11 @@ Memory cache package.
 ## How to Use
 
 ```
-  import * as UnityMemoryCache from 'unique-team-cache';
+  import * as UniqueMemoryCache from 'unique-team-cache';
 
-  const unityMemoryCache = new UnityMemoryCache();
+  const uniqueMemoryCache = new UniqueMemoryCache();
 
-  unityMemoryCache.cacheGetOrQueryAndSet(
+  uniqueMemoryCache.cacheGetOrQueryAndSet(
     'MY_KEY',
     MONGOOSE_MODEL, // model reference
     'find',
